@@ -1,2 +1,3 @@
 # google-sheets
-Google Sheets scripts
+
+Simple scripts for Google Sheets automation
